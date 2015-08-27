@@ -1,0 +1,18 @@
+﻿# Extended Tanks Language File = RUSSIA RUSSIAN
+
+# CREATIVE TAB
+itemGroup.extendedTanks=Расширенные баки
+
+# ITEMS
+item.itemFishOil.name=Рыбий жир
+item.itemGlue.name=Клей
+
+# BLOCKS
+tile.blockExtendedTank.0.name=Железный бак
+tile.blockExtendedTank.1.name=Золотой бак
+tile.blockExtendedTank.2.name=Алмазный бак
+
+# STRINGS
+extendedtanks.size=Ёмкость
+extendedtanks.amount=Содержит
+extendedtanks.fluid=Жидкость

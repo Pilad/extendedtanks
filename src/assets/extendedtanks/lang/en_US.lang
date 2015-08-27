@@ -1,0 +1,18 @@
+﻿# Extended Tanks Language File = UNITED STATES ENGLISH
+
+# CREATIVE TAB
+itemGroup.extendedTanks=Extended Tanks
+
+# ITEMS
+item.itemFishOil.name=Fish Oil
+item.itemGlue.name=Glue
+
+# BLOCKS
+tile.blockExtendedTank.0.name=Iron Tank
+tile.blockExtendedTank.1.name=Gold Tank
+tile.blockExtendedTank.2.name=Diamond Tank
+
+# STRINGS
+extendedtanks.size=Size
+extendedtanks.amount=Amount
+extendedtanks.fluid=Fluid
